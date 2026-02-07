@@ -1,0 +1,1 @@
+This repository contains files from another attempt at my web development learning journey through the Learn Enough Tutorials by Michael Hartl in order to build a website for listing rentals. I hope to succeed this time.
